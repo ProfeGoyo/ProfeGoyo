@@ -59,8 +59,8 @@ Soy profesor de secundaria, entusiasta de la IA y apasionado/a por metodologías
 <!-- Puedes usar herramientas como https://github.com/anuraghazra/github-readme-stats -->
 <!-- ¡Recuerda reemplazar 'TU_USUARIO' con tu nombre de usuario de GitHub! -->
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ProfeGoyo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfeGoyo&layout=compact&langs_count=8&theme=radical"/>
   <!-- Opcional: Streak Stats -->
   <!-- <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" /> -->
 </p>
@@ -101,7 +101,10 @@ Soy profesor de secundaria, entusiasta de la IA y apasionado/a por metodologías
 <!-- Muestra las últimas 5 actividades (esto se actualizará automáticamente si configuras la GitHub Action) -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ProfeGoyo" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ProfeGoyo&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+</div>
 ---
 
 ### 📫 Conéctate Conmigo
